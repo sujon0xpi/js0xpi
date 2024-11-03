@@ -20,6 +20,9 @@ Visit our tool at: [js0xpi Protection Tool](https://your-domain/js0xpi)
 
 ### How to Use
 
+## 📺 How to use tool!
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube)](https://sujon0xpi.github.io/js0xpi/tutorial)
+
 1. **Input Your Code**
    - Paste your JavaScript code into the input field
    - Select desired protection options
@@ -37,54 +40,12 @@ Visit our tool at: [js0xpi Protection Tool](https://your-domain/js0xpi)
 | > 50KB    | Download file     |
 | > 1MB     | Download only     |
 
-## ⚙️ Technical Details
 
-### Protection Features
+## 🌟 Why Choose js0xpi?
 
-- Identifier transformation
-- String protection
-- Control flow adjustments
-- Format preservation
-- Performance optimization
-
-### Performance Impact
-
-Our protection system is designed to minimize runtime overhead while maintaining code security. Most protected code runs with negligible performance difference compared to the original.
-
-## 📋 Best Practices
-
-- Always keep a backup of your original code
-- Test protected code thoroughly before deployment
-- Use the download option for large files
-- Verify code functionality after protection
-
-## ❓ FAQ
-
-**Q: What file sizes are supported?**
-A: js0xpi handles files up to several megabytes in size.
-
-**Q: Does it work with minified code?**
-A: Yes, the tool is compatible with minified JavaScript.
-
-**Q: Will it affect code performance?**
-A: The impact on performance is minimal in most cases.
-
-## 📝 Important Notes
-
-- This tool is intended for legitimate code protection purposes
-- Protected code should still follow platform terms of service
-- We recommend maintaining clear documentation for your team
-
-## 🛡️ Security Considerations
-
-While js0xpi provides code protection, we recommend:
-- Implementing proper authentication
-- Using HTTPS for secure transmission
-- Following security best practices
-- Regular security audits
+Unlike basic obfuscators that provide simple protection easily bypassed by automated tools, js0xpi implements sophisticated encryption algorithms and protection techniques that make reverse engineering extremely difficult and time-consuming.
 
 ---
 
-Made with ❤️ by the js0xpi team
-
-*Note: This tool is for legitimate code protection purposes only. Users are responsible for ensuring compliance with all applicable terms of service and legal requirements.*
+### ⚠️ Security Notice
+While js0xpi provides exceptional protection, we maintain honest communication about security. No protection system is technically "unbreakable" - we simply make reverse engineering so complex and time-consuming that it becomes impractical.
