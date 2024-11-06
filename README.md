@@ -21,7 +21,7 @@ Visit our tool at: [js0xpi Protection Tool](https://sujon0xpi.github.io/js0xpi/)
 ### How to Use
 
 ## 📺 How to use tool!
-[![Watch the Tutorial](https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube)](https://sujon0xpi.github.io/js0xpi/tutorial)
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube)](https://youtu.be/VUyWnsrJFd0?si=UufMEmOH2oC4vxMz)
 
 1. **Input Your Code**
    - Paste your JavaScript code into the input field
